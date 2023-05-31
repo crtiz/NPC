@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/manjubhaskar02/FM-10-Fylo-landing-page-with-two-columns](https://github.com/manjubhaskar02/FM-10-Fylo-landing-page-with-two-columns)
+- Live Site URL: [https://manjubhaskar02.github.io/FM-10-Fylo-landing-page-with-two-columns/](https://manjubhaskar02.github.io/FM-10-Fylo-landing-page-with-two-columns/)
 
 ## My process
 
